@@ -1,10 +1,10 @@
 # bushou
 
-A Clojure library designed to ... well, that part is up to you.
+Learn Simplified Chinese Characters with these flashcards
 
 ## Usage
 
-FIXME
+lein run -m file <num-to-drop>
 
 ## License
 

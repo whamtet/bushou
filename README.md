@@ -4,7 +4,9 @@ Learn Simplified Chinese Characters with these flashcards
 
 ## Usage
 
-lein run -m file <num-to-drop>
+lein run -m file num-to-drop
+
+if num-to-drop is omitted the cards will be shuffled
 
 ## License
 
